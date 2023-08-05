@@ -1,3 +1,4 @@
+![logo](https://github.com/SamahaSohail27/SamahaSohail27/blob/main/Make%20your%20README%20(1).png)
 <h1 align="center">Hi 👋, I'm Samaha Sohail</h1>
 <h3 align="center">A passionate Computer Scientist from Pakistan</h3>
 
